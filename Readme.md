@@ -1,0 +1,1 @@
+This repo contains questions and concepts related to javascript.
